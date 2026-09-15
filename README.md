@@ -24,8 +24,6 @@ This project answers key product questions:
 
 - Python
 - Pandas
-- PySpark
-- Spark SQL
 - Power BI
 
 ---
